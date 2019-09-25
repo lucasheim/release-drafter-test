@@ -1,3 +1,0 @@
-feature: feat/*
-bug: fix/*
-skip-changelog: ['devops/*', 'refactor/*']
